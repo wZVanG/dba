@@ -1,5 +1,5 @@
 {
         "version": 1.0,
-        "status":1,
-        "hosts" : ["http://www.dragonboundaimbot.com","http://dragonboundaimbot.tuars.com"]
+        "status": 1,
+        "host" : "http://www.dragonboundaimbot.com"
 }
