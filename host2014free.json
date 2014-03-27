@@ -5,7 +5,7 @@
 	"vipurl" : "http://www.dragonboundaimbot.com/vip",
 	"shownotice" : {"text":"Bienvenido...","speed":70,"color":[0, 200 , 0, 255]},
 	"notice_off_str" : {"text":"Aimbot offline...","speed":70,"color":[255, 0 , 0, 255]},
-	"server_str": "Aimbot en mantenimiento, Esta versión no funcionará, por seguridad DESACTÍVALA!. Próxima versión a descargar: 5.x, se publicará en la página.",
+	"server_str": "Versión Free en mantenimiento, compra ahora la versión VIP !",
 	"disable" : 1,
 	"disable_msg" : "Versión Free en mantenimiento, adquiere la versión VIP !",
 	"update_str": "Hay una nueva versión disponible (5.0), descárgalo en www.dragonboundaimbot.com (botón gratis)",
