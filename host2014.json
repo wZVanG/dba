@@ -1,6 +1,6 @@
 {
         "version": 6.04,
-        "status": 1,
+        "status": 0,
         "v" : 604,
         "vipurl" : "http://www.dragonboundaimbot.com/vip",
         "shownotice" : {"text":"Bienvenido...","speed":70,"color":[0, 200 , 0, 255]},
