@@ -3,7 +3,7 @@
 	"status":1,
 	"v" : 503,
 	"vipurl" : "http://www.dragonboundaimbot.com/vip",
-	"shownotice" : {"text":"Bienvenido...","speed":70,"color":[0, 200 , 0, 255]},
+	"shownotice" : {"text":"Bienvenido...","speed":30,"color":[0, 200 , 0, 255]},
 	"notice_off_str" : {"text":"Aimbot offline...","speed":70,"color":[255, 0 , 0, 255]},
 	"server_str": "Versión Free en mantenimiento, compra ahora la versión VIP !",
 	"disable" : 1,
