@@ -1,6 +1,6 @@
 {
 	"version": 6.14,
-	"status":1,
+	"status":0,
 	"v" : 614,
 	"vipurl" : "http://dragonboundaimbot.besana.com/vip",
 	"shownotice" : {"text":">>> Bienvenido...","speed":30,"color":[111, 43 , 255, 255]},
