@@ -2,7 +2,7 @@
 	"version": 6.15,
 	"status":1,
 	"v" : 615,
-	"vipurl" : "http://dragonboundaimbot.besaba.com/vip",
+	"vipurl" : "http://www.dragonboundaimbot.com/vip",
 	"shownotice" : {"text":">>> Bienvenido...","speed":30,"color":[111, 43 , 255, 255]},
 	"notice_off_str" : {"text":"Aimbot offline...","speed":70,"color":[255, 0 , 0, 255]},
 	"server_str": "Versión disponible 6.1.5 - Grupo de FB",
