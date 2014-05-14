@@ -1,7 +1,7 @@
 {
-	"version": 6.15,
+	"version": 6.16,
 	"status":1,
-	"v" : 615,
+	"v" : 616,
 	"vipurl" : "http://www.dragonboundaimbot.com/vip",
 	"shownotice" : {"text":">>> Bienvenido...","speed":30,"color":[111, 43 , 255, 255]},
 	"notice_off_str" : {"text":"Aimbot offline...","speed":70,"color":[255, 0 , 0, 255]},
