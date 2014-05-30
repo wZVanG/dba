@@ -1,11 +1,11 @@
 {
 	"version": 6.22,
-	"status":0,
+	"status":1,
 	"v" : 622,
 	"vipurl" : "http://www.dragonboundaimbot.com/vip",
 	"shownotice" : {"text":">>> Bienvenido...","speed":30,"color":[111, 43 , 255, 255]},
 	"notice_off_str" : {"text":"Nueva versión disponible...","speed":70,"color":[255, 0 , 0, 255]},
-	"server_str": "Nueva versión disponible (6.2.2), descárgalo en www.dragonboundaimbot.com (botón GRATIS)",
+	"server_str": "Aimbot Free deshabilitado\n Disponible solo los Viernes 2:00pm",
 	"disable" : 1,
 	"disable_msg" : "Versión Free deshabilitado temporalmente",
 	"update_str": "Nueva versión disponible (6.2.2), descárgalo en www.dragonboundaimbot.com (botón GRATIS)",
