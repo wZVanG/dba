@@ -1,6 +1,6 @@
 {
-	"version": 6.23,
-	"status":0,
+	"version": 6.24,
+	"status":1,
 	"v" : 623,
 	"vipurl" : "http://www.dragonboundaimbot.com/usuarios",
 	"shownotice" : {"text":">>> Bienvenido...","speed":30,"color":[111, 43 , 255, 255]},
