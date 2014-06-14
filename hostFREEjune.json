@@ -2,6 +2,7 @@
 	"version": 6.23,
 	"status":1,
 	"v" : 623,
+	"newversionurl" : "http://www.dragonboundaimbot.com/",
 	"vipurl" : "http://www.dragonboundaimbot.com/usuarios",
 	"shownotice" : {"text":">>> Bienvenido...","speed":30,"color":[111, 43 , 255, 255]},
 	"notice_off_str" : {"text":"Nueva versión disponible...","speed":70,"color":[255, 0 , 0, 255]},
