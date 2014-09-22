@@ -1,12 +1,12 @@
 {
         "version": 6.5,
-        "status": 1,
+        "status": 0,
         "vipurl" : "http://www.dragonboundaimbot.com/vip",
         "shownotice" : {"text":"Bienvenido...","speed":70,"color":[0, 200 , 0, 255]},
         "notice_off_str" : {"text":"Aimbot offline...","speed":70,"color":[255, 0 , 0, 255]},
         "acl" : false,
-        "server_str": "Versión FREE desactivada - Visita la página de Facebook",
-        "update_str": "Hay una versión disponible (6.5.0), descárgalo en www.dragonboundaimbot.com",
+        "server_str": "Versión Modo de prueba desactivada - Visita la página de Facebook!",
+        "update_str": "Versión Modo de prueba desactivada - Visita la página de Facebook!",
         "hosts" : ["http://www.dragonboundaimbot.com"],
         "mobiles": "tank|armor gum|ice aduka thunder|lightning redfoot2|bigfoot dj|jd ufo|asate random knight nak mage trico|dino turtle grub boomer jfrog dragon kalsiddon fox"
 }
