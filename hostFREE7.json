@@ -1,5 +1,5 @@
 {
-        "version": 6.5,
+        "version": 6.51,
         "status": 0,
         "vipurl" : "http://www.dragonboundaimbot.com/vip",
         "shownotice" : {"text":"Bienvenido...","speed":70,"color":[0, 200 , 0, 255]},
@@ -8,5 +8,5 @@
         "server_str": "Versión Modo de prueba desactivada - Visita la página de Facebook!",
         "update_str": "Versión Modo de prueba desactivada - Visita la página de Facebook!",
         "hosts" : ["http://www.dragonboundaimbot.com"],
-        "mobiles": "tank|armor gum|ice aduka thunder|lightning redfoot2|bigfoot dj|jd ufo|asate random knight nak mage trico|dino turtle grub boomer jfrog dragon kalsiddon fox"
+        "mobiles": "knight,armor,ice,aduka,lightning,bigfoot,jd,asate,random,nak,mage,trico,turtle,grub,boomer,jfrog,dragon,kalsiddon,fox"
 }
