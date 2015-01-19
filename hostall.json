@@ -1,0 +1,12 @@
+{
+        "version": 8.1,
+        "status": 1,
+        "vipurl" : "https://www.dragonboundaimbot.com/vip",
+        "shownotice" : {"text":"Bienvenido...","speed":70,"color":[0, 200 , 0, 255]},
+        "notice_off_str" : {"text":"Aimbot offline...","speed":70,"color":[255, 0 , 0, 255]},
+        "acl" : false,
+        "server_str": "Versión desactivada por seguridad",
+        "update_str": "Versión 8.12 disponible, descárgalo en la web",
+        "hosts" : ["https://www.dragonboundaimbot.com"],
+        "mobiles": "tank|armor gum|ice aduka thunder|lightning redfoot2|bigfoot dj|jd ufo|asate random knight nak mage trico|dino turtle grub boomer jfrog dragon kalsiddon fox"
+}
