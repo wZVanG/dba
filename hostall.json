@@ -1,6 +1,6 @@
 {
-        "version": 8.1,
-        "status": 0,
+        "version": 8.14,
+        "status": 1,
         "vipurl" : "https://www.dragonboundaimbot.com/vip",
         "shownotice" : {"text":"Bienvenido...","speed":70,"color":[0, 200 , 0, 255]},
         "notice_off_str" : {"text":"Aimbot offline...","speed":70,"color":[255, 0 , 0, 255]},
